@@ -16,7 +16,7 @@ body:
       label: Content
       placeholder: Please describe the content you would like to discuss.
     validations:
-      required: true
+      required: true fix
   - type: markdown
     attributes:
       value: Please limit one request per issue.
